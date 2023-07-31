@@ -1,4 +1,38 @@
-.App {
+.nav-link{
+  color: white;
+  font-weight: 500;
+  font-size: 20px;
+}
+.navbar-brand{
+  color: white;
+  font-weight: 500;
+  font-size: 22px;
+
+}
+
+.container{
+  text-align: center;
+  justify-content: center;
+}
+
+p{
+  font-size: 18px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +69,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */
